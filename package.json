@@ -4,16 +4,22 @@
   "description": "",
   "main": "src/server.ts",
   "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only src/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Programmer Bikash",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "mongoose": "^7.4.2"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.13",
+    "@types/express": "^4.17.17",
+    "ts-node-dev": "^2.0.0",
     "typescript": "^5.1.6"
   }
 }
