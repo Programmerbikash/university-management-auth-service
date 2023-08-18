@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\.9e7e3315cf814df905e2c34fb8fc47aed67f55c1-audit.json",
+    "files": [
+        {
+            "date": 1691950713600,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\PBU-2023-14-08-00-success.log",
+            "hash": "08b8b12f54e52d0e46c95fd2bd29ec953f0b35070ed3bbb9882cff41a0f2bc33"
+        },
+        {
+            "date": 1691994453279,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\PBU-2023-14-08-12-success.log",
+            "hash": "b26cf1539b446fb684f1e5d5dabc66e5c2bf8ac9ade14ba04cc951e19a74f470"
+        },
+        {
+            "date": 1692118726473,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\PBU-2023-15-08-22-success.log",
+            "hash": "efe46a5ac2f505b5f56dd12ceb9d13e5954b3f72bf3fa76a04ca41e8e36a3330"
+        },
+        {
+            "date": 1692119152365,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\PBU-2023-15-08-23-success.log",
+            "hash": "a7324d2afc0de985c5fe7fbe1a7865fd817206eaeddc639837ed262123fbb769"
+        },
+        {
+            "date": 1692163561337,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\PBU-2023-16-08-11-success.log",
+            "hash": "7ed23ccdc70060b50c8f66cfd5c3d70c36bb6d0668c6e22a23b15ad16e43de3b"
+        },
+        {
+            "date": 1692169018507,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\PBU-2023-16-08-12-success.log",
+            "hash": "ba1230e251848234b854e7a83ff42bf974f1c67a797d62f7e0dab8e4df414773"
+        },
+        {
+            "date": 1692169207846,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\PBU-2023-16-08-13-success.log",
+            "hash": "395b44f21c966b1bf5991f71d2ddd573cc6ea913dd59244e21180ebc97f23605"
+        },
+        {
+            "date": 1692290772142,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\PBU-2023-17-08-22-success.log",
+            "hash": "cb4ebd86f713369a55d2f355565190ea577141047c6f6ebdecae5a90c20dbdb3"
+        },
+        {
+            "date": 1692291674396,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\PBU-2023-17-08-23-success.log",
+            "hash": "9caaeda73c5cfbd2b6f81b72332f9b41ee48836021b356bf325cc49dbe124fee"
+        },
+        {
+            "date": 1692328686647,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\PBU-2023-18-08-09-success.log",
+            "hash": "d4019511a267833d3b4878608948839479451d0ce76ca05ff7612319ff881eb5"
+        },
+        {
+            "date": 1692357578033,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\PBU-2023-18-08-17-success.log",
+            "hash": "7dbe50377fe5f4e585dd0003246d1366c8064349436ffe93d23f48bca59e91eb"
+        },
+        {
+            "date": 1692375701121,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\PBU-2023-18-08-22-success.log",
+            "hash": "8bc34b930cc560bc35eae80509bd06be397fbeb4cbf4b51e4fbd6725d7911b84"
+        }
+    ],
+    "hashType": "sha256"
+}

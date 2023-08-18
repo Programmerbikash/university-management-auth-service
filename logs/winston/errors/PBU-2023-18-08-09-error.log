@@ -1,0 +1,348 @@
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:18:06.816Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:18:18.146Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:18:20.767Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:18:27.134Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:18:41.182Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:18:46.915Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:18:58.022Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:20:10.776Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:20:22.145Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:20:27.595Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:20:42.661Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:21:00.928Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:21:17.575Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:21:24.560Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:21:29.958Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:21:43.989Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:21:57.874Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:36:28.876Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:36:34.223Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:36:49.862Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:37:01.216Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:37:16.308Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:37:24.018Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:37:30.573Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:38:53.462Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:42:27.522Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:42:39.271Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:42:44.672Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTIMP',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-18T03:43:21.008Z'
+}

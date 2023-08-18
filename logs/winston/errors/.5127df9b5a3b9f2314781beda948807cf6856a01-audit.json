@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\errors\\.5127df9b5a3b9f2314781beda948807cf6856a01-audit.json",
+    "files": [
+        {
+            "date": 1691950713612,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\errors\\PBU-2023-14-08-00-error.log",
+            "hash": "7ad7da6d3044fd1570c242c0f32284f0615a683937a3124488719114f592f01e"
+        },
+        {
+            "date": 1691994453305,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\errors\\PBU-2023-14-08-12-error.log",
+            "hash": "54bc27b46c0ff2b61f8c8e4c5781d54348b97e7354428317122cda7eab66e9b4"
+        },
+        {
+            "date": 1692118726523,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\errors\\PBU-2023-15-08-22-error.log",
+            "hash": "a8b72881c7fe008d04492f6c7c0725d2188ca4c9af4f59b11a1b38cde4112631"
+        },
+        {
+            "date": 1692119152400,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\errors\\PBU-2023-15-08-23-error.log",
+            "hash": "8aadfc20093c46172f6f016f6aa20a632d39a492e0398cb5770bb9ad061e0dd3"
+        },
+        {
+            "date": 1692163561395,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\errors\\PBU-2023-16-08-11-error.log",
+            "hash": "06cb987b19c60a065bfff4f32471d2463b9b2d70d1c205fc822c05e103b8d2ca"
+        },
+        {
+            "date": 1692169018550,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\errors\\PBU-2023-16-08-12-error.log",
+            "hash": "77b77c3133e660b17194e5c082fe8a990924da0059af4374fa4ac61fdde8e3d8"
+        },
+        {
+            "date": 1692169207874,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\errors\\PBU-2023-16-08-13-error.log",
+            "hash": "d48bf2bfbdf664593d54523cd2c21f36fe0b9287022836619acfd8800c1d7844"
+        },
+        {
+            "date": 1692290772174,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\errors\\PBU-2023-17-08-22-error.log",
+            "hash": "5be8bcb1ffb1d6029e0b0615ed352e48df8093156939dfc87dec426898bbbfac"
+        },
+        {
+            "date": 1692291674421,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\errors\\PBU-2023-17-08-23-error.log",
+            "hash": "464e0a1527ff0bf7a024902b790331c5a07ace1855d226ef62b3d611a3c0c0fc"
+        },
+        {
+            "date": 1692328686677,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\errors\\PBU-2023-18-08-09-error.log",
+            "hash": "d78c24d1933a0e0020ae446b74a31d6ee1393be82667583d2b28821e3eb6af16"
+        },
+        {
+            "date": 1692357578088,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\errors\\PBU-2023-18-08-17-error.log",
+            "hash": "f9f1509451dae7a0027ae8145b9a1b8e60746515cc9da3d140d2aa4fd2f22fa3"
+        },
+        {
+            "date": 1692375701200,
+            "name": "G:\\react\\react\\next-level-web-development\\Be a NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\errors\\PBU-2023-18-08-22-error.log",
+            "hash": "417dc0d8eefd7bc8de1155905b08c110cc8b5de68c2dd531713681375f202e21"
+        }
+    ],
+    "hashType": "sha256"
+}
