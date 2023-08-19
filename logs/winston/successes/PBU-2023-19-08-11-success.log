@@ -2,107 +2,95 @@
   message: '\x1B[33mDatabase is connected successfully\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:21:44.278Z'
+  timestamp: '2023-08-19T05:24:32.060Z'
 }
 {
   message: '\x1B[33mApplication listening on port 5000\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:21:44.337Z'
+  timestamp: '2023-08-19T05:24:32.111Z'
 }
 {
   message: '\x1B[33mDatabase is connected successfully\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:22:14.432Z'
+  timestamp: '2023-08-19T05:24:46.073Z'
 }
 {
   message: '\x1B[33mApplication listening on port 5000\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:22:14.467Z'
+  timestamp: '2023-08-19T05:24:46.087Z'
 }
 {
   message: '\x1B[33mDatabase is connected successfully\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:22:38.793Z'
+  timestamp: '2023-08-19T05:24:52.412Z'
 }
 {
   message: '\x1B[33mApplication listening on port 5000\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:22:38.810Z'
+  timestamp: '2023-08-19T05:24:52.429Z'
 }
 {
   message: '\x1B[33mDatabase is connected successfully\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:23:06.320Z'
+  timestamp: '2023-08-19T05:25:08.000Z'
 }
 {
   message: '\x1B[33mApplication listening on port 5000\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:23:06.335Z'
+  timestamp: '2023-08-19T05:25:08.026Z'
 }
 {
   message: '\x1B[33mDatabase is connected successfully\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:23:27.615Z'
+  timestamp: '2023-08-19T05:29:46.842Z'
 }
 {
   message: '\x1B[33mApplication listening on port 5000\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:23:27.639Z'
+  timestamp: '2023-08-19T05:29:46.873Z'
 }
 {
   message: '\x1B[33mDatabase is connected successfully\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:24:36.780Z'
+  timestamp: '2023-08-19T05:29:56.262Z'
 }
 {
   message: '\x1B[33mApplication listening on port 5000\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:24:36.842Z'
+  timestamp: '2023-08-19T05:29:56.289Z'
 }
 {
   message: '\x1B[33mDatabase is connected successfully\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:26:38.774Z'
+  timestamp: '2023-08-19T05:30:11.434Z'
 }
 {
   message: '\x1B[33mApplication listening on port 5000\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:26:38.807Z'
+  timestamp: '2023-08-19T05:30:11.458Z'
 }
 {
   message: '\x1B[33mDatabase is connected successfully\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:33:25.687Z'
+  timestamp: '2023-08-19T05:32:04.530Z'
 }
 {
   message: '\x1B[33mApplication listening on port 5000\x1B[39m',
   level: 'info',
   label: 'PB',
-  timestamp: '2023-08-18T16:33:25.722Z'
-}
-{
-  message: '\x1B[33mDatabase is connected successfully\x1B[39m',
-  level: 'info',
-  label: 'PB',
-  timestamp: '2023-08-18T16:59:39.211Z'
-}
-{
-  message: '\x1B[33mApplication listening on port 5000\x1B[39m',
-  level: 'info',
-  label: 'PB',
-  timestamp: '2023-08-18T16:59:39.244Z'
+  timestamp: '2023-08-19T05:32:04.563Z'
 }

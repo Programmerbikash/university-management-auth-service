@@ -3,14 +3,14 @@ import config from './config'
 import colors from 'colors'
 import app from './app'
 import { errorLogger, logger } from './shared/logger'
-import {Server} from 'http'
+import { Server } from 'http'
 
 process.on('uncaughtException', error => {
   errorLogger.error(error)
   process.exit(1)
 })
 
-let server: Server;
+let server: Server
 
 async function bootstrap() {
   try {
@@ -37,10 +37,10 @@ async function bootstrap() {
 }
 bootstrap()
 
-process.on("SIGTERM", () => {
-  logger.info("Sigterm is received.....");
+process.on('SIGTERM', () => {
+  logger.info('Sigterm is received.....')
   if (server) {
-    server.close();
+    server.close()
   }
 })
 
