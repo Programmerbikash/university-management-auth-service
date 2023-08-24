@@ -1,0 +1,156 @@
+{
+  errno: undefined,
+  code: 'ENOTIMP',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-21T18:11:48.342Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTIMP',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-21T18:11:59.651Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTIMP',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-21T18:12:03.436Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTIMP',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-21T18:12:08.367Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTIMP',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-21T18:12:11.569Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTIMP',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-21T18:12:20.096Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTIMP',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-21T18:12:28.919Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTIMP',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-21T18:13:09.396Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTIMP',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-21T18:13:13.918Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTIMP',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-21T18:13:31.701Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTIMP',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-21T18:14:06.354Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTIMP',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-21T18:14:19.411Z'
+}
+{
+  errno: undefined,
+  code: 'ENOTIMP',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net',
+  stack: 'Error: querySrv ENOTIMP _mongodb._tcp.cluster0.ik3p7tj.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PB',
+  timestamp: '2023-08-21T18:14:24.917Z'
+}
